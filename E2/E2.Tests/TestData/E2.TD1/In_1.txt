@@ -1,0 +1,5 @@
+4
+Rasht->Tehran
+Karaj->Ghom
+Kerman->Rasht
+Ghom->Kerman

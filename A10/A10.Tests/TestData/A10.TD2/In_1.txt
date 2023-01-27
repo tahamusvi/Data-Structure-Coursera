@@ -1,0 +1,10 @@
+2
+add check
+add test
+add look
+add aba
+add caba
+check 0
+check 1
+add hm
+check 1
